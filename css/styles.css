@@ -25,3 +25,12 @@ img {
   background-color: lightblue;
   text-align: center;
 }
+
+.skills {
+  width: 20%
+  margin: 4px;
+  padding: 2px;
+  border: 1px solid gray;
+  text-align: center;
+
+}
