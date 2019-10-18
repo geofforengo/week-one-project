@@ -2,6 +2,11 @@ body {
   font-family: sans-serif;
 }
 
+section {
+  width: 100%;
+  float: left;
+}
+
 img {
   height: 150px;
   width: 300px;
@@ -9,7 +14,8 @@ img {
 }
 
 .my-projects {
-  width: 30%;
+  float: left;
+  width: 300px;
   margin: 6px;
   padding: 2px;
   border: 1px solid green;
@@ -27,12 +33,11 @@ img {
 }
 
 .skills {
+  float: left;
   width: 300px;
-  left: 300px;
   margin: 4px;
   padding: 2px;
   border: 1px solid gray;
   text-align: center;
-  position: static;
 
 }
