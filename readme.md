@@ -20,4 +20,6 @@ _Please feel free to contact me if there are any suggestions as to how I can imp
 
 *Used html and bootstrap
 
+[Click here to view the file at GithubPages]()
+
 Copyright (c) 2019
