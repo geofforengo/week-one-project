@@ -3,3 +3,11 @@ img {
   width: 300px;
   float:right;
 }
+
+.my-projects {
+  width: 30%;
+  margin: 6px;
+  padding: 4px;
+  border:1px solid green;
+  background-color: lightgreen;
+}
