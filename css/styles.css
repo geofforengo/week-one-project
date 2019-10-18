@@ -27,10 +27,12 @@ img {
 }
 
 .skills {
-  width: 20%
+  width: 300px;
+  left: 300px;
   margin: 4px;
   padding: 2px;
   border: 1px solid gray;
   text-align: center;
+  position: static;
 
 }
