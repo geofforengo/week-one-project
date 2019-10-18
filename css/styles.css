@@ -30,6 +30,7 @@ img {
   border: 1px solid blue;
   background-color: lightblue;
   text-align: center;
+  font-family: serif;
 }
 
 .skills {
@@ -41,4 +42,8 @@ img {
   background-color: 33a5ff;
   text-align: center;
 
+}
+
+.important {
+  font-style: italic;
 }
