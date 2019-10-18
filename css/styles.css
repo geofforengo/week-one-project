@@ -1,13 +1,13 @@
 img {
   height: 150px;
   width: 300px;
-  float:right;
+  float:cent;
 }
 
 .my-projects {
   width: 30%;
   margin: 6px;
-  padding: 4px;
-  border:1px solid green;
+  padding: 2px;
+  border: 1px solid green;
   background-color: lightgreen;
 }
