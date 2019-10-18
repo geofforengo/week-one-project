@@ -15,8 +15,8 @@ img {
 
 .my-projects {
   float: left;
-  width: 300px;
-  margin: 6px;
+  width: 350px;
+  margin: 4px;
   padding: 2px;
   border: 1px solid green;
   background-color: lightgreen;
@@ -25,7 +25,7 @@ img {
 .bio {
   float: right;
   width: 40%;
-  margin: 6px;
+  margin: 4px;
   padding: 2px;
   border: 1px solid blue;
   background-color: lightblue;
@@ -34,10 +34,11 @@ img {
 
 .skills {
   float: left;
-  width: 300px;
+  width: 350px;
   margin: 4px;
   padding: 2px;
   border: 1px solid gray;
+  background-color: 33a5ff;
   text-align: center;
 
 }
