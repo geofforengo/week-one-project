@@ -13,6 +13,10 @@ img {
 
 }
 
+.middle {
+  text-align: center;
+}
+
 .my-projects {
   float: left;
   width: 350px;
@@ -20,6 +24,7 @@ img {
   padding: 2px;
   border: 1px solid green;
   background-color: lightgreen;
+
 }
 
 .bio {
@@ -35,7 +40,7 @@ img {
 
 .skills {
   float: left;
-  width: 350px;
+  width: 382px;
   margin: 4px;
   padding: 2px;
   border: 1px solid gray;
