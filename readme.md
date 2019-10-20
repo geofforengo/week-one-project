@@ -20,6 +20,6 @@ _Please feel free to contact me if there are any suggestions as to how I can imp
 
 *Used html and bootstrap
 
-[Click here to view the file at GithubPages]()
+[Click here to view the file at GithubPages](https://geofforengo.github.io/week-one-project/)
 
 Copyright (c) 2019
